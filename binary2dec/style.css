@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-top: 300px;
+    margin-left: 250px;
+    /* margin-right: 300px; */
+    /* border-style: solid; */
+    
+}
+
+.title{
+    padding: 15px;
+}
+
+.input{
+    margin-left: 25px;
+}
+
+.input-btn{
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.resultado{
+    width: 250px;
+    height: 50px;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 1em;
+}
+
+.mostrar-resultado{
+    margin-left: 10px;
+   
+}

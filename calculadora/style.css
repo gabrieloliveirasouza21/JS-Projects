@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width: 360px;
+    height: 300px;
+    background-color: #383434;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.tela{
+    width: calc(350px - 20);
+    height: 50px;
+    background-color: aliceblue;
+    z-index: 2;
+    /* position: fixed; */
+}
+
+.row1{
+    display: flex;
+}
+
+.botao1{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.botao2{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.botao3{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.botao4{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 100px;
+    margin-left: -200px;
+    
+}
+
+.botao5{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 100px;
+    margin-left: -130px;
+    
+}
+
+.botao6{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 100px;
+    margin-left: -60px;
+    
+}
+
+.botao7{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 175px;
+    margin-left: -200px;
+    
+}
+
+.botao8{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 175px;
+    margin-left: -130px;
+    
+}
+
+.botao9{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 175px;
+    margin-left: -60px;
+    
+}
+
+.soma{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 25px;
+    margin-left: 10px;
+    
+}
+
+.sub{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 25px;
+    margin-left: 10px;
+    
+}
+
+.multi{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 100px;
+    margin-left: -130px;
+    
+}
+
+.divisao{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 100px;
+    margin-left: -60px;
+    
+}
+
+.resto{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 175px;
+    margin-left: -130px;
+    
+}
+
+.result{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    padding:5px;
+    margin-top: 175px;
+    margin-left: -60px;
+    
+}
+
+
+
+ul, li{
+    list-style: none;
+}
+
+.lista-de-botoes{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.resultado{
+    margin-left: 5px;
+    margin-top: 2px;
+}
